@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<jstranslator>
+    <!-- validation.js -->
+    <validate-custom-price translate="message" module="artjoker_customprice">
+        <message>This field depends by field "Currency". It cannot be empty if "Currency" was selected.</message>
+    </validate-custom-price>
+    <validate-currency-code translate="message" module="artjoker_customprice">
+        <message>This field depends by field "Price on another currency". You need to choose "Currency" if You filled field "Price on another currency".</message>
+    </validate-currency-code>
+</jstranslator>

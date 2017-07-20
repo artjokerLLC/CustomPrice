@@ -1,0 +1,6 @@
+"Custom Price","Пользовательская цена"
+"Price on another currency","Цена в небазовой валюте"
+"Currency","Валюта"
+"--Please Select--","--Выберите пожалуйста--"
+"This field depends by field ""Currency"". It cannot be empty if ""Currency"" was selected.","Это поле зависит от поля ""Валюта"". Оно не может быть пустым, если поле ""Валюта"" было установлено."
+"This field depends by field ""Price on another currency"". You need to choose ""Currency"" if You filled field ""Price on another currency"".","Это поле зависит от поля ""Цена в небазовой валюте"". Вам нужно выбрать значение в поле ""Валюта"" если Вы заполнили поле ""Цена в небазовой валюте""."
