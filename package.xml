@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>CustomPrice</name>
+    <version>0.2.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL-3</license>
+    <channel>Community</channel>
+    <extends/>
+    <summary>Custom Price module for a products.</summary>
+    <description>Custom Price module that gives posibility to input price of a product on another currency.</description>
+    <notes>Additional attributes "Price on another currency" and "Currency" were added via script. </notes>
+    <authors><author><name>Andrii Beziazychnyi</name><user>andrewbess</user><email>andrewbess1982@gmail.com</email></author><author><name>Alex Prokopiev</name><user>alex</user><email>alex@artjoker.ua</email></author></authors>
+    <date>2017-07-20</date>
+    <time>09:40:23</time>
+    <contents><target name="mage"><dir name="app"><dir name="code"><dir name="local"><dir name="Artjoker"><dir name="CustomPrice"><dir name="Block"><dir name="Adminhtml"><dir name="Catalog"><dir name="Product"><dir name="Edit"><dir name="Tab"><file name="Attributes.php" hash="8568fffee9c0b3b674baaa1fc927ecce"/></dir></dir><dir name="Helper"><dir name="Form"><file name="Currencycode.php" hash="06d6d2be3fd181183d2580f264776196"/><file name="Customprice.php" hash="d4ae4ce6a57c9822772621c9f1444a47"/></dir></dir></dir></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="9ea4c46e2b3ed6e83ef395acda51331a"/></dir><dir name="Model"><file name="Observer.php" hash="aa495fb3a3280fc9bf0f7df1c88c4e55"/><dir name="Product"><dir name="Attribute"><dir name="Source"><file name="Currencycode.php" hash="b158fe7153e9681cf3a2ff237cc52daf"/></dir></dir></dir></dir><dir name="etc"><file name="config.xml" hash="c662d70869eef0c0d7877b04fb9303e3"/><file name="jstranslator.xml" hash="8c016a2175596f05661d5fb033be2c74"/></dir><dir name="sql"><dir name="artjoker_customprice_setup"><file name="install-0.1.0.php" hash="241dc3429c3438a37026be0191ea4bfe"/><file name="upgrade-0.1.0-0.2.0.php" hash="98b8c6084d28208e7f8fde4fbbe49880"/></dir></dir></dir></dir></dir></dir><dir name="design"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><dir name="artjoker"><file name="customprice.xml" hash="207c7ef3f96b1d989f4e836f0620e5a7"/></dir></dir></dir></dir></dir></dir><dir name="etc"><dir name="modules"><file name="Artjoker_CustomPrice.xml" hash="64f3203e5828dbfc62e4c4f99788ddd1"/></dir></dir><dir name="locale"><dir name="ru_RU"><file name="Artjoker_CustomPrice.csv" hash="d3725f8ccbda10c277efbfc90a73b8ad"/></dir></dir></dir><dir name="js"><dir name="prototype"><dir name="artjoker"><file name="customprice" hash="d41d8cd98f00b204e9800998ecf8427e"/></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.3.0</min><max>7.1.0</max></php></required></dependencies>
+</package>
