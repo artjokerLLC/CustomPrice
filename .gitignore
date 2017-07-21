@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+*.iml
+/*
+!/app/code/local/Artjoker/CustomPrice
+!/app/design/adminhtml/default/default/layout/artjoker/customprice.xml
+!/app/etc/modules/Artjoker_CustomPrice.xml
+!/.gitignore
+!/js/prototype/artjoker/customprice
+!/package.xml
+!/README.md
+!/app/locale/en_US/Artjoker_CustomPrice.csv
+!/app/locale/ru_RU/Artjoker_CustomPrice.csv
