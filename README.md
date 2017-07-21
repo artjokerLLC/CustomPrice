@@ -17,7 +17,7 @@ Set price on another currency and select currency.
 Save product.
 Price will be recalculating automatically during saving.
 
-![Product edit form](https://prnt.sc/fyho3f)
+![Product edit form](https://drive.google.com/open?id=0B4tww9TTgHPzcDRTbU4tajMxVzg)
 
 #### License
 [OSL-3](https://opensource.org/licenses/OSL-3.0)
