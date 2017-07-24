@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Artjoker_CustomPrice>
-            <version>0.2.0</version>
+            <version>0.3.0</version>
         </Artjoker_CustomPrice>
     </modules>
     <global>

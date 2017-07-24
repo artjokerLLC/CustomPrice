@@ -4,6 +4,9 @@
         <Artjoker_CustomPrice>
             <active>true</active>
             <codePool>local</codePool>
+            <depends>
+                <Mage_Catalog />
+            </depends>
         </Artjoker_CustomPrice>
     </modules>
 </config>
