@@ -1,8 +1,8 @@
 # CustomPrice by Artjoker
 
-This extension needed for magento sites with a lot of allowed currencies.
-It give a possibility to set price for product on another currency. Price will recalculation according to currency rate from system automatically during saving.
-It helps You to save your time during creating of the products.
+This extension is needed for magento sites with a lot of allowed currencies.
+It gives a possibility to set price for product on another currency. Price will recalculation according to currency rate from system automatically during saving of a product.
+It helps You to save your time during creating and changing of a products.
 
 #### Compatible With:
 1.9.x.x
