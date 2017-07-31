@@ -16,7 +16,6 @@ $productTypes = join(',', $productTypes);
 $installer->addAttribute(Mage_Catalog_Model_Product::ENTITY, 'custom_price', array(
     'group'                     => 'Custom Price',
     'backend'                   => 'catalog/product_attribute_backend_price',
-    'frontend'                  => '',
     'label'                     => 'Price on another currency',
     'type'                      => 'decimal',
     'global'                    => Mage_Catalog_Model_Resource_Eav_Attribute::SCOPE_WEBSITE,
@@ -33,7 +32,6 @@ $installer->addAttribute(Mage_Catalog_Model_Product::ENTITY, 'custom_price', arr
 $installer->addAttribute(Mage_Catalog_Model_Product::ENTITY, 'currency_code', array(
     'group'                     => 'Custom Price',
     'backend'                   => 'catalog/product_attribute_backend_boolean',
-    'frontend'                  => '',
     'label'                     => 'Currency',
     'input'                     => 'select',
     'source'                    => 'artjoker_customprice/product_attribute_source_currencycode',
